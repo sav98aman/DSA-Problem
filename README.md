@@ -1,7 +1,7 @@
 # DSA-Problem
 ##  this resp DSA Problem and solution Aprroced 
 
-### DSA problem and Solution
+### DSA problem and Solution For  Best for Practice in java and Java script code
 * Q1 Simple Print Hello from User Input by taking Scanner Scanner class package Beleogs to java.util.Scanner
 * Q2. check prime Number and Print all Prime Number In Between range of 1 to n.
 
