@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Q2. Check Prime Number",
         "Q1.Hello world Printing",
-        "Q2. Check Prime Number"
+        "Q3 Searching Elements"
     ]
 }
