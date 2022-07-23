@@ -1,4 +1,5 @@
 # DSA-Problem
+##  this resp DSA Problem and solution Aprroced 
 
 ### DSA problem and Solution
 * Q1 Simple Print Hello from User Input by taking Scanner Scanner class package Beleogs to java.util.Scanner
