@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "java basic/helloprogram",
+        "Q3 Searching Elements",
         "Q2. Check Prime Number",
         "Q1.Hello world Printing",
-        "Q3 Searching Elements"
+        "java basic/variable"
     ]
 }
