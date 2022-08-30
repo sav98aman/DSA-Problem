@@ -61,7 +61,6 @@ public class _2Variable {
                 System.out.println( "while loop");
                 System.out.println("findind th factorial of number");
                 System.out.println("please Enter Input");
-              
                 int fac=Integer.parseInt(ibr.readLine());
                 int res=1;
                 while(fac>=1){
