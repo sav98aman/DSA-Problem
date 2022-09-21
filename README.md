@@ -1,4 +1,7 @@
 # DSA-Problem
+  soloving DSA Problem in java  by topic wise 
+  Easy to revise and the caoncepts 
+  of My DSA concepts
 ##  this resp DSA Problem and solution Aprroced 
 
 ### DSA problem and Solution For  Best for Practice in java and Java script code
