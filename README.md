@@ -1,5 +1,5 @@
 # DSA-Problem  DSA Problem 
-# This repo consists of some of the most important  questions based on Data Structures and Algorithms. This repo is aimed to reveised my  concepts preparation
+  This repo consists of some of the most important  questions based on Data Structures and Algorithms. This repo is aimed to reveised my  concepts preparation
  
   
 ##  this resp DSA Problem and solution Aprroced 
