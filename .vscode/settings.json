@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "day8 recursion level 2",
         "day7-Recursion",
         "day6 Sorting",
         "Q3 Searching Elements",
         "Q2. Check Prime Number",
-        "day8 recursion level 2"
+        "0-patterns"
     ]
 }
