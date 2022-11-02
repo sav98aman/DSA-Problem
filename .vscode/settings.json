@@ -1,10 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "java basic/variable",
-        "java basic/helloprogram",
+        "day7-Recursion",
+        "day6 Sorting",
         "Q3 Searching Elements",
         "Q2. Check Prime Number",
-        "Q1.Hello world Printing",
-        "pattern day3"
+        "day8 recursion level 2"
     ]
 }
